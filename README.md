@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darsh4nxd
 - 👀 I’m interested in built some op stuff
-- 🌱 I’m currently learning Java , c++
+- 🌱 I’m currently learning Java , python2
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
